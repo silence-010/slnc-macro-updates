@@ -1,0 +1,11 @@
+{
+    "version":  "0.1.2",
+    "notes":  "Routines: fishing routine with screen recognition. Automatic updates.",
+    "pub_date":  "2026-10-30T22:35:32Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEZzRDlqekpSYzlzRzJ6Y3pNY3RsR0d3Q3pqQTFPSU1xVisrcUVIdmZRVFZLTkZCK2FDanY5b0Q1VEhDdHFOdnlXMkZzbkIyNlBDT0VFYVdNbVBqRWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzk5NTM5CWZpbGU6U0xOQyBNYWNyb18wLjEuMl94NjQtc2V0dXAuZXhlCmwyUTFUQjk4R0dWZXp0cm9yUE1pNlpRQjNPVFpBc20rakVnQWJEVXhKMnBXZXhrU04xbHA2dkxUUTVxL2FyemtFdWZSdS94akE4L08rK1hyS2R0RERRPT0K",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.2.exe"
+                                         }
+                  }
+}
