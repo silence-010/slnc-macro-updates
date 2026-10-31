@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.7",
-    "notes":  "SLNC Macro belast je game minder: animaties stoppen zodra de game actief is, routines kopieren minder beeld en herkennen sneller.",
-    "pub_date":  "2026-10-31T19:43:14Z",
+    "version":  "0.1.8",
+    "notes":  "Je pc gaat niet meer vanzelf slapen en je scherm blijft aan zolang een routine draait.",
+    "pub_date":  "2026-10-31T20:14:42Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEp0ajBkYWVoTG5CUVA0RHZTRW1wTE43cWE5SG0xSCs1eDY4SldNazJEcFpEbStwNjlsZUo0TUNWZGU1WFFrQ3BIeGNXWFNXMUFWR3M4MS80bkU0SWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDc1MDg5CWZpbGU6U0xOQyBNYWNyb18wLjEuN194NjQtc2V0dXAuZXhlCmFITWszNjV0RFVGWElIUkpUblVPc1UxcEMvSE9FZDFMUVlrajVCUkE2M016R3FXWXhlZ2RTUThwWGVRUkxTbGZUbktlTmlqVWZYTm1qM1NpZG9jTUF3PT0K",
-                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.7.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEpLS2pJUXlvK0p4cUkyaEx4eFI3SnIyak5ZZklEZ2swS2JNNUJiTTJTaldIZlF4d3UxRnhpOHR5OC9HbDZ3SzFBcXVnNU9CSllRWjZQdldQWHVsTEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDc3Njc5CWZpbGU6U0xOQyBNYWNyb18wLjEuOF94NjQtc2V0dXAuZXhlClZPSzRYNWNCTU9RMEZLcmQ2c2VuU3FIdHV6TGQ4dktqdFlQK242V1oyWjl4V24rVGpZNnI3L2VCV0xNd1dnY3dMazQwc1creUgwUTBoMHZVWmZ0NERBPT0K",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.8.exe"
                                          }
                   }
 }
