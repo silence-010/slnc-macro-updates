@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.6",
-    "notes":  "New look with game picker. Fishing releases at x1.5 Luck. Game Scanner with labels. New logo and background.",
-    "pub_date":  "2026-10-31T12:16:16Z",
+    "version":  "0.1.7",
+    "notes":  "SLNC Macro belast je game minder: animaties stoppen zodra de game actief is, routines kopieren minder beeld en herkennen sneller.",
+    "pub_date":  "2026-10-31T19:43:14Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEJKdGNhZlNZN2RudjROTUNYZXl5K3A2cmIyV1dGNjB4cUpsZ3FZRkpmbHhNRWtIWHQ2SnFZT0VNZnJTWnFCeEUwNjNiTC9SUCtvRFJxTXBxWERpTEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQ4OTY0CWZpbGU6U0xOQyBNYWNyb18wLjEuNl94NjQtc2V0dXAuZXhlCjA5YjZ3TGw2aU9Da1h5VlZmSWhTbTlWOVFQOC8wZVNONzE3Mi9GOUFPZWd5MkpoSVlQc2NPUTZsV3FFeDVRNVlHbVpoUjlqajY2NEFmUnFEZWlzUEJBPT0K",
-                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.6.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEp0ajBkYWVoTG5CUVA0RHZTRW1wTE43cWE5SG0xSCs1eDY4SldNazJEcFpEbStwNjlsZUo0TUNWZGU1WFFrQ3BIeGNXWFNXMUFWR3M4MS80bkU0SWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDc1MDg5CWZpbGU6U0xOQyBNYWNyb18wLjEuN194NjQtc2V0dXAuZXhlCmFITWszNjV0RFVGWElIUkpUblVPc1UxcEMvSE9FZDFMUVlrajVCUkE2M016R3FXWXhlZ2RTUThwWGVRUkxTbGZUbktlTmlqVWZYTm1qM1NpZG9jTUF3PT0K",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.7.exe"
                                          }
                   }
 }
