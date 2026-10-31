@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.5",
-    "notes":  "Fishing: casts the moment the game accepts it, always fills the bar. Pumpkins: targets Lil Pump, chases it and taps E.",
-    "pub_date":  "2026-10-31T09:32:23Z",
+    "version":  "0.1.6",
+    "notes":  "New look with game picker. Fishing releases at x1.5 Luck. Game Scanner with labels. New logo and background.",
+    "pub_date":  "2026-10-31T12:16:16Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEh2bkc2U0FrT2IxVEg2RHhvQVh3VTBXamZkcmdob2wwK2J2YkJ6SGR5eW81OW5XNmMvREx2emY5YzNTcXRSeVhQcmFZbDhmMDlRZENWS0Zna2t0OGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDM5MTM2CWZpbGU6U0xOQyBNYWNyb18wLjEuNV94NjQtc2V0dXAuZXhlClBaZ011MlgrSXZWQUZwT3JGVTIxNlUrdkxTRE12Mnk0ajhQclBxUlFWMUdLL3RLUytzUjdPalIxcFZ6STAyU1JkOVM0ZlJZaHJ6WmsxWFpJWHRMZkJ3PT0K",
-                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.5.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEJKdGNhZlNZN2RudjROTUNYZXl5K3A2cmIyV1dGNjB4cUpsZ3FZRkpmbHhNRWtIWHQ2SnFZT0VNZnJTWnFCeEUwNjNiTC9SUCtvRFJxTXBxWERpTEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQ4OTY0CWZpbGU6U0xOQyBNYWNyb18wLjEuNl94NjQtc2V0dXAuZXhlCjA5YjZ3TGw2aU9Da1h5VlZmSWhTbTlWOVFQOC8wZVNONzE3Mi9GOUFPZWd5MkpoSVlQc2NPUTZsV3FFeDVRNVlHbVpoUjlqajY2NEFmUnFEZWlzUEJBPT0K",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.6.exe"
                                          }
                   }
 }
