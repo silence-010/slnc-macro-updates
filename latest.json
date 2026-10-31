@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.8",
-    "notes":  "Je pc gaat niet meer vanzelf slapen en je scherm blijft aan zolang een routine draait.",
-    "pub_date":  "2026-10-31T20:14:42Z",
+    "version":  "0.1.9",
+    "notes":  "Klikt niet meer in je game als er geen hengel en geen backpack in beeld is.",
+    "pub_date":  "2026-10-31T20:49:46Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEpLS2pJUXlvK0p4cUkyaEx4eFI3SnIyak5ZZklEZ2swS2JNNUJiTTJTaldIZlF4d3UxRnhpOHR5OC9HbDZ3SzFBcXVnNU9CSllRWjZQdldQWHVsTEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDc3Njc5CWZpbGU6U0xOQyBNYWNyb18wLjEuOF94NjQtc2V0dXAuZXhlClZPSzRYNWNCTU9RMEZLcmQ2c2VuU3FIdHV6TGQ4dktqdFlQK242V1oyWjl4V24rVGpZNnI3L2VCV0xNd1dnY3dMazQwc1creUgwUTBoMHZVWmZ0NERBPT0K",
-                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.8.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEw5dHFZbEp1bitReitJc3N3VjNBYUk1dFBhN0U1TEZxVVpnL25UYzRWNENKemlWQjZIWVFLY0ZTdFdxaFdBWFBndDEvU2hKaUIxSjBQUnVLdkNxeEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDc5Nzg0CWZpbGU6U0xOQyBNYWNyb18wLjEuOV94NjQtc2V0dXAuZXhlCkswRWRVN1lxUHZUYWxnZ1lXdW1LL0tHYWdicmpmQkJ4TDZWa0FVc1dicTNab1JEYlMzRVd4Uzh0Y3laMEZMUENUa1A1U0NjRkwzYmJ4YXJnOUpibkNnPT0K",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.9.exe"
                                          }
                   }
 }
