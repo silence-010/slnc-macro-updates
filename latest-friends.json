@@ -1,0 +1,11 @@
+{
+    "version":  "0.1.14",
+    "notes":  "Elke sneltoets wordt nu overal op dezelfde manier meteen opgeslagen.",
+    "pub_date":  "2026-11-01T21:59:21Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEhtV3RZbjFJZnQ0T2d1RExsVS9xOE11L3dEQXoyTTZyWUlNc2I0Znl2OHFZMkJSVUpqN3RLdTlSKzgwTmFiOXZPbmF3ZE1XK293YXE3MGtLNFRFRFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTcwMzU5CWZpbGU6U0xOQyBNYWNybyBGcmllbmRzXzAuMS4xNF94NjQtc2V0dXAuZXhlClNIZDRCV1o1aWtMZDFoRjRtOFloL3VoY21vV2E5SDV4M2ZLRmZRSURjeFRLYjVCcVkwM0ZlZnpEbmhyWGgvMGJSc25HOGVPMHFZcDU4UUlKTDVXMkNnPT0K",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Friends-Setup-0.1.14.exe"
+                                         }
+                  }
+}
