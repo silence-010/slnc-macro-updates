@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.11",
-    "notes":  "Meet nu haperingen per fase in het logboek, zodat de hapering bij het vasthouden te vinden is.",
-    "pub_date":  "2026-11-01T09:05:28Z",
+    "version":  "0.1.12",
+    "notes":  "Vissen met de hengel in je inventory: hengel pakken, inventory sluiten en midden-onder op het water gooien.",
+    "pub_date":  "2026-11-01T13:27:40Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdENLOWpvS1NSWndtUGY4WVpDaTJ5ZGVENGRvbFEyRC9NazBkajZIeE84T1lDc3hnSUN0SHBmMDM3V1ltcERabzBmbXpXSkw5VElaQVRJMG82NTVhZWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTIzOTI3CWZpbGU6U0xOQyBNYWNyb18wLjEuMTFfeDY0LXNldHVwLmV4ZQpFbjVJK2RTVDhWUG16cHZyR00ycnhINFNQREZFcEg2TmFBL1daSGlQR1FJdkRMSWhXNlZYZVVBc1lTbU5iTUNBcHpEY1ZYdEMzTUR3emkrOVdRdU1BQT09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.11.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdElpMUZadkdPOTN2Yi83b0FvbE1uUU5WMXBMaExQeGhJV2p0WEJGM1lDc1BJTUluS2srZThqRmJXQjZOSnhVelFkdlBNdmQ5cUVlQ21ablhSRTcvc3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTM5NjU5CWZpbGU6U0xOQyBNYWNyb18wLjEuMTJfeDY0LXNldHVwLmV4ZQpzcjdUV3YxK01EUFdRSzNJbkVHVGdiYnJBK2J2OEw2YlNoUWVXRFNPOTZKeEZkTGFaQmZWN01KVFhuMGZ6TWh1ZUVIZW93eDlDMnVONVFEYy9rNklCZz09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.12.exe"
                                          }
                   }
 }
