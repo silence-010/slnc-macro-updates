@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.12",
-    "notes":  "Vissen met de hengel in je inventory: hengel pakken, inventory sluiten en midden-onder op het water gooien.",
-    "pub_date":  "2026-11-01T13:27:40Z",
+    "version":  "0.1.13",
+    "notes":  "Stel alle sneltoetsen zelf in, met elke toets. Tijdens het instellen start er niets meer.",
+    "pub_date":  "2026-11-01T20:38:42Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdElpMUZadkdPOTN2Yi83b0FvbE1uUU5WMXBMaExQeGhJV2p0WEJGM1lDc1BJTUluS2srZThqRmJXQjZOSnhVelFkdlBNdmQ5cUVlQ21ablhSRTcvc3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTM5NjU5CWZpbGU6U0xOQyBNYWNyb18wLjEuMTJfeDY0LXNldHVwLmV4ZQpzcjdUV3YxK01EUFdRSzNJbkVHVGdiYnJBK2J2OEw2YlNoUWVXRFNPOTZKeEZkTGFaQmZWN01KVFhuMGZ6TWh1ZUVIZW93eDlDMnVONVFEYy9rNklCZz09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.12.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEhLNUhRTFNjSFJtbmluakRGWWhhTXViUllhVERhZ3JBdFNUNXlzQWpFR1BtNlg0bDNScVlUcTZuVGlkN2M5OHBSaUppbUp0N2hNdGRGOEd3Ry84OFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTY1NTE4CWZpbGU6U0xOQyBNYWNyb18wLjEuMTNfeDY0LXNldHVwLmV4ZQppdkhzNFhHZms3eWRuV3B3bjUyeFV6UVVNdndQLzNzTU91bkF4Uk1yYklJbjBNeldXTnM5Y3pocW1QNGdyZmQvQUpjYzUraHZCanNrR1hUSVJ0TW9DZz09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.13.exe"
                                          }
                   }
 }
