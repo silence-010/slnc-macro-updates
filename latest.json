@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.9",
-    "notes":  "Klikt niet meer in je game als er geen hengel en geen backpack in beeld is.",
-    "pub_date":  "2026-10-31T20:49:46Z",
+    "version":  "0.1.10",
+    "notes":  "Minder lag tijdens vissen: de klikbalk klikt nu maximaal 100 keer per seconde.",
+    "pub_date":  "2026-11-01T08:19:18Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEw5dHFZbEp1bitReitJc3N3VjNBYUk1dFBhN0U1TEZxVVpnL25UYzRWNENKemlWQjZIWVFLY0ZTdFdxaFdBWFBndDEvU2hKaUIxSjBQUnVLdkNxeEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDc5Nzg0CWZpbGU6U0xOQyBNYWNyb18wLjEuOV94NjQtc2V0dXAuZXhlCkswRWRVN1lxUHZUYWxnZ1lXdW1LL0tHYWdicmpmQkJ4TDZWa0FVc1dicTNab1JEYlMzRVd4Uzh0Y3laMEZMUENUa1A1U0NjRkwzYmJ4YXJnOUpibkNnPT0K",
-                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.9.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdENHc0pWK01HSS9xbG5qR1NuT3VNa3crL3RmdWtwUW9oMTY4cGtJalEzVko4U0NVWTdkWU5aSlNvanpsV2xEQ1FTUTZsR016UEVxdlQ4OWFrc1dHYmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTIxMTU3CWZpbGU6U0xOQyBNYWNyb18wLjEuMTBfeDY0LXNldHVwLmV4ZQo2NXRUOVNhaDBmZHVQbDlXQUphMDd3V3c3aXVJNEpjQVpZUzY1cmp0dUtXU1BDSzdQMm1VYU8za0d4N2NENmdjWkdCLzZwaTBTN0phRHNlTnRzczBDZz09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.10.exe"
                                          }
                   }
 }
