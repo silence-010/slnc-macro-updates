@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.13",
-    "notes":  "Stel alle sneltoetsen zelf in, met elke toets. Tijdens het instellen start er niets meer.",
-    "pub_date":  "2026-11-01T20:38:42Z",
+    "version":  "0.1.14",
+    "notes":  "Elke sneltoets wordt nu overal op dezelfde manier meteen opgeslagen.",
+    "pub_date":  "2026-11-01T21:52:36Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEhLNUhRTFNjSFJtbmluakRGWWhhTXViUllhVERhZ3JBdFNUNXlzQWpFR1BtNlg0bDNScVlUcTZuVGlkN2M5OHBSaUppbUp0N2hNdGRGOEd3Ry84OFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTY1NTE4CWZpbGU6U0xOQyBNYWNyb18wLjEuMTNfeDY0LXNldHVwLmV4ZQppdkhzNFhHZms3eWRuV3B3bjUyeFV6UVVNdndQLzNzTU91bkF4Uk1yYklJbjBNeldXTnM5Y3pocW1QNGdyZmQvQUpjYzUraHZCanNrR1hUSVJ0TW9DZz09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.13.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdE9zR1U1ZmJxYnVycnpLNkZWTGlyYUgwbVpiU2Z5OTk5Nk9CY1pDRHU3VktGTFcxTGZSeVJpdjFSMXY1UDduQWc4WjJzenM3MGJDMHRJTllUODFwQ1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTY5OTU0CWZpbGU6U0xOQyBNYWNyb18wLjEuMTRfeDY0LXNldHVwLmV4ZQowRVRDdXNUSXU4Q0ZkdWN5YjI0dTRIRUdFT0QzK2g5RzhVNU5ZK2FLQXJkeVZiQ3c2T0dCUktqTDdjQ3hxeEdhTFJKdThPOFNVYlpmYnBaTEJRZnhDdz09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.14.exe"
                                          }
                   }
 }
