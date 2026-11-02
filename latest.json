@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.15",
-    "notes":  "Vissen blijft doorgaan: een worp zonder beet wordt na 20 seconden opnieuw gedaan, en hij mikt flexibeler.",
-    "pub_date":  "2026-11-02T11:55:27Z",
+    "version":  "0.1.16",
+    "notes":  "Vissen en pompoenen zijn weg. Macro Record scant nu ook de game en neemt alle toetsen en muisknoppen op, ook de zijknoppen.",
+    "pub_date":  "2026-11-02T21:23:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEk5Y0tpZVJNaWt2bW9yOXRJd1Z6ZWJzSnN1NUdxa3lqN0lJbEE4dEt0UGdmd25SQ0p6cjU4ekEwcXlRR25mOFNCZlpxR3NNbDhCRzB0M2JNWUZDWEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjIwNTI1CWZpbGU6U0xOQyBNYWNyb18wLjEuMTVfeDY0LXNldHVwLmV4ZQpUWE1hS0F6ZVRoWE9jYWRhcnNMRnZqaUJwYjJRdTAvSjA4am1LbHg0V01vLzZVOFZOWWJyUzNUd2dISC8vclhtVGd6emd6cEtwTWlGeUsyWGRENTVEUT09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.15.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEVpYi96dnZFMUd3WngvQms0RjJjUFVicTJ1enNNSmJVd1ZBMVpHaEp5Qk96L3JmejgvWk9ka2pNU0RvV2hudEpLZGIxQ0hpUWlQc1B2Vy85WTloWEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjU0NTc3CWZpbGU6U0xOQyBNYWNyb18wLjEuMTZfeDY0LXNldHVwLmV4ZQpXUTdFRkFDWGJNTWtBdG8xTnBsMnpUdW1VN0xJMG5FQ3Z6ZUMya1lWcVdXUEczRHI5WWVYN2J1MnV4VGhvREg2aHlqNEdQamRtckN6QS9LdkZCOXFEdz09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.16.exe"
                                          }
                   }
 }
