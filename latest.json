@@ -1,0 +1,11 @@
+{
+    "version":  "0.1.58",
+    "notes":  "Every account\u0027s data is now encrypted on disk with its own key, unlocked only by its password, its SLNC key or Windows Hello. After a restart or update you log in again.",
+    "pub_date":  "2026-11-21T12:58:10Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdElLc3ZvM1NkQ2tCQVo1L2Q0ZWNlZGRLdXpGNXVmbGVlWDlnZjNWNVlwSnMzSVhEdjBOb21uUnhYQU1zdTFhR0tRMks3c1JIZmtlRkpPYVQ4dGJleHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjY1ODYwCWZpbGU6U0xOQyBNYWNyb18wLjEuNThfeDY0LXNldHVwLmV4ZQp3OW91SFdBejFNUk9yWlBteWRLckNBZnJUb3o4QmZMZW9KWXdib0Qwd1JKTUgxOVkzMlRVK2RxelpQTHlFV3dkbGdPOGpHdlB1d0hBUVNUSTJsaGNEUT09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.58.exe"
+                                         }
+                  }
+}
