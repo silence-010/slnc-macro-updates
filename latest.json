@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.59",
-    "notes":  "Owner tools, the owner list (stopped keys, messages) and automatic update checks.",
-    "pub_date":  "2026-11-24T10:44:49Z",
+    "version":  "0.1.60",
+    "notes":  "Screen steps in macros: see \u0026 click, hold while a bar shows, hold + click, wait until something shows. Pauses when the game isn\u0027t in front, asks instead of guessing.",
+    "pub_date":  "2026-11-24T14:55:35Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdE94c29KNG43TzVRTDhJQytTOHNHUDl4M01sR0VNMVV6cVJLSlJzdmh5U0UxN3ZNQnBTM3ZZa0ZnbFpwNnRQbVNyYkxsMHRBRFNtcStiUldkUkRLcFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTE3MDc1CWZpbGU6U0xOQyBNYWNyb18wLjEuNTlfeDY0LXNldHVwLmV4ZQpvL0x0cVYvbkdESEp0MldBeEM0bnZsQngyRStqMFNtbVkvSVhKS3JOMmdzNlluVkpoZjhYbzdPM2pwbjE1WWplMjg3Z0VNNzd1NGs3Tk9XL0VQOXRDdz09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.59.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEV4dGpadTRJQ2pFZmFqVVdKTzRwQmRZRWFyZWRVMFQveU12b1lKS1phTmtHV0kwOU80aC9IMzJ3NWEyUVd0UG9kcVZGTW8xd3dsMUpiZFUvcGdmd3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTMyMTE4CWZpbGU6U0xOQyBNYWNyb18wLjEuNjBfeDY0LXNldHVwLmV4ZQpDeFFFa2ZTWWxTSmFLWnVDSGEyNGFEeUd0emJBWWdqbDdsc21KK0xPdDQzb0ZFaTRHN0hwd0dIdW5jcnArL08vMENJMVBwTlQ0WWsyMzBJc1RRMGpDdz09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.60.exe"
                                          }
                   }
 }
