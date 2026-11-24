@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.60",
-    "notes":  "Screen steps in macros: see \u0026 click, hold while a bar shows, hold + click, wait until something shows. Pauses when the game isn\u0027t in front, asks instead of guessing.",
-    "pub_date":  "2026-11-24T14:55:35Z",
+    "version":  "0.1.61",
+    "notes":  "Recording now recognises what you do in your game: clicked buttons are found again on screen, holds last while the bar shows, a click during a hold keeps its timing.",
+    "pub_date":  "2026-11-24T15:32:41Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEV4dGpadTRJQ2pFZmFqVVdKTzRwQmRZRWFyZWRVMFQveU12b1lKS1phTmtHV0kwOU80aC9IMzJ3NWEyUVd0UG9kcVZGTW8xd3dsMUpiZFUvcGdmd3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTMyMTE4CWZpbGU6U0xOQyBNYWNyb18wLjEuNjBfeDY0LXNldHVwLmV4ZQpDeFFFa2ZTWWxTSmFLWnVDSGEyNGFEeUd0emJBWWdqbDdsc21KK0xPdDQzb0ZFaTRHN0hwd0dIdW5jcnArL08vMENJMVBwTlQ0WWsyMzBJc1RRMGpDdz09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.60.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdE9Hei9qMUM4UlpZczRpcHlWQmlObE1mU2xlWnNDMndUbi9zT2FHL1l6M2pZdkhjTzBkRHhSM2k5K05oaVgyb2UzQzg2RXlCZXVLNTRpRWxGTlliYkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM0MzQ3CWZpbGU6U0xOQyBNYWNyb18wLjEuNjFfeDY0LXNldHVwLmV4ZQpmVFpCd2ZrMEU2TSs0bXVwVzB5ZncvNjd2Z1AzelBNdXVHa0JpUnlFaFR1TUQwa2w1SExtejdHMzJpaVdDRHRYMHJCVHRBUWRGaFMyb1NNN1BDZFFCdz09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.61.exe"
                                          }
                   }
 }
