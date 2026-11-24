@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.62",
-    "notes":  "Every macro can now count what happens (hits, misses), read names and numbers from the game, and post its own live Discord message with your names. The SLNC Macros page is gone.",
-    "pub_date":  "2026-11-24T16:06:32Z",
+    "version":  "0.1.63",
+    "notes":  "Live messages now show today, yesterday, all time, records and recent sessions per macro, and the app shows the live message while a macro plays. Smart clicks switch removed: recording recognises by itself.",
+    "pub_date":  "2026-11-24T16:35:27Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEpDZG54NFdteFZkQW4vV0xNOVhmU0QyVSs2RkJoYzNEZG1CNFdWK3NPaE9EdlJHbjllaUh0bTJ5VTFrd1pUUTQxR2ZsZ1AzSm8yYWRKZ0IybDNBMGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM2Mzc2CWZpbGU6U0xOQyBNYWNyb18wLjEuNjJfeDY0LXNldHVwLmV4ZQpROVd2Y0NvVGVZRWJVMFFCQW82cDN6czk1R2pha0NSYWpzbWk3VElmNWIwbFIyNW13NjNDdTExQXVZeUYrWWN2a29vZWxGdDZVTWRWNW1EVWFDV05Ddz09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.62.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEVIL3ZEY1FJcC81VTBpNlNsTkV2NFRzcEtrVEhJNVNENW9ZZkl6Z1ZrNm9CRExVWUpPNit4dnBiWU5ndE9JdFFvOWpaZ3M3b3U3Q0daM2xaNkhkQlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM4MTEzCWZpbGU6U0xOQyBNYWNyb18wLjEuNjNfeDY0LXNldHVwLmV4ZQowL1J0MCt2MHd5R3ZOMnVoREV6RmdwbjdTazQ3elRwcVB6MVplMUFqQ25XU0FCYWk1YXc0bE1VRXk5dW9wYk9sOHNxY3JGL1NGL1VyUWJOTlN4dWtBUT09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.63.exe"
                                          }
                   }
 }
