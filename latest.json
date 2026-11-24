@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.63",
-    "notes":  "Live messages now show today, yesterday, all time, records and recent sessions per macro, and the app shows the live message while a macro plays. Smart clicks switch removed: recording recognises by itself.",
-    "pub_date":  "2026-11-24T16:35:27Z",
+    "version":  "0.1.64",
+    "notes":  "New layout: every section is its own page, switched from a dock at the bottom (Record Macro, Macro settings, History, Buttons, Settings, Support / Report). Hover an icon to see its name.",
+    "pub_date":  "2026-11-24T18:54:53Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEVIL3ZEY1FJcC81VTBpNlNsTkV2NFRzcEtrVEhJNVNENW9ZZkl6Z1ZrNm9CRExVWUpPNit4dnBiWU5ndE9JdFFvOWpaZ3M3b3U3Q0daM2xaNkhkQlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM4MTEzCWZpbGU6U0xOQyBNYWNyb18wLjEuNjNfeDY0LXNldHVwLmV4ZQowL1J0MCt2MHd5R3ZOMnVoREV6RmdwbjdTazQ3elRwcVB6MVplMUFqQ25XU0FCYWk1YXc0bE1VRXk5dW9wYk9sOHNxY3JGL1NGL1VyUWJOTlN4dWtBUT09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.63.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdE1JcjhPMEZFSENWR1ppSXhtRStzZmx0cW5lNWlxZmIzZWc0YTg0akR6RVFQMVpVNlYrS2FuM3MzeUhMbjV5dDhPU3hrTFMvVEVKVUp2MXJvNTlsaGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTQ2NDc2CWZpbGU6U0xOQyBNYWNyb18wLjEuNjRfeDY0LXNldHVwLmV4ZQpKeUlYcjA4UHJsK1ZCZGFLTnVnUnRUUnYxTWQ0UGIzZGZwTS9Xa2xmTUZPLzRGRHI0UXVQbzZoNFJObHoxQ0pSRXZoamR5NnA0NDFQekcrcTRDc0pDUT09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.64.exe"
                                          }
                   }
 }
