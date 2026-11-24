@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.64",
-    "notes":  "New layout: every section is its own page, switched from a dock at the bottom (Record Macro, Macro settings, History, Buttons, Settings, Support / Report). Hover an icon to see its name.",
-    "pub_date":  "2026-11-24T18:54:53Z",
+    "version":  "0.1.65",
+    "notes":  "New Screen actions tab: pick the game window, add actions from clear cards, teach and test targets (tests click nothing), plain-language explanations. Fix: quick changes are no longer lost when switching tabs.",
+    "pub_date":  "2026-11-24T19:49:11Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdE1JcjhPMEZFSENWR1ppSXhtRStzZmx0cW5lNWlxZmIzZWc0YTg0akR6RVFQMVpVNlYrS2FuM3MzeUhMbjV5dDhPU3hrTFMvVEVKVUp2MXJvNTlsaGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTQ2NDc2CWZpbGU6U0xOQyBNYWNyb18wLjEuNjRfeDY0LXNldHVwLmV4ZQpKeUlYcjA4UHJsK1ZCZGFLTnVnUnRUUnYxTWQ0UGIzZGZwTS9Xa2xmTUZPLzRGRHI0UXVQbzZoNFJObHoxQ0pSRXZoamR5NnA0NDFQekcrcTRDc0pDUT09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.64.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdENxN2o0T2ozYWNiajJWV25uaXpWbHgyeFpsdVBDa0pkU3FadTREcXhpSkN6UWJRbU04cnRQb3p4VU03Qll5Sk1qVWhoaVR6YWNMbE0xWGh4eGxpeVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTQ5NzM4CWZpbGU6U0xOQyBNYWNyb18wLjEuNjVfeDY0LXNldHVwLmV4ZQpCWXQ5QytxVXNvOThYUjFGTUEvSnJzRXJVNURpcm4ydFpSYkxTVnFDa0ZXZ25aY2k3N3dOeXhXSE9RYU1TWm5xMSsrZ1pUdUVtY1YwK016dnk4RVZCdz09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.65.exe"
                                          }
                   }
 }
