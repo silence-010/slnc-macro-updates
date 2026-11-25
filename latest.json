@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.67",
-    "notes":  "Pop-ups you clicked again and again while recording are now clicked whenever they show up (once each time). Much faster recognition.",
-    "pub_date":  "2026-11-25T19:04:50Z",
+    "version":  "0.1.68",
+    "notes":  "Yellow 2x / 4x and purple x2 pop-ups you click only once while recording now also become \u0027whenever it shows up, click it\u0027 (the app sees the button go away after your click).",
+    "pub_date":  "2026-11-25T22:00:57Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEZvMk5pbG1OY200NGhhM0JTNmEvbEVZQUk5MXRTakkxWi9Kbzc1VHVLWG4wWnkvQWF5cjc2N255SXorQndWcjN4Z25WM09pdjBuQnJ1cTNHOEk0WEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjMzNDY5CWZpbGU6U0xOQyBNYWNyb18wLjEuNjdfeDY0LXNldHVwLmV4ZQpsUVRMaS9uNlhFZ3Fpb0NpbEFMcGJpU3VFakN0RzhDaE1SMGhwZzF1aGQ0azNpZFhHeHBLS3VLakhjZTBBUEZpbEZzTm5kOGtkd0NyaDU4aXZwWndEUT09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.67.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEJqYUNSblBTWGZnTGlsd1diZHFDMnpDWmZPL1BkTXZWa204YUdJNzAxbEExb2c2K0RFcGtTcWZxYjVVNEx4YllBTUt4Q2JmRGtIMW5nL28vQjh4UmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjQ0MDU1CWZpbGU6U0xOQyBNYWNyb18wLjEuNjhfeDY0LXNldHVwLmV4ZQo3dnNqRG9DUTFmbEwxVnc1cUN5UGo2TUZ3K0ZjcFlnd1VvMEp0NDEwRHFKWnd0N0JMeTAzdEU0Ti84cWZqK1BER1E0c2xmdnVvUlBGOTh1Ukt6enlCdz09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.68.exe"
                                          }
                   }
 }
