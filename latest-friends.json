@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.65",
-    "notes":  "New Screen actions tab: pick the game window, add actions from clear cards, teach and test targets (tests click nothing), plain-language explanations. Fix: quick changes are no longer lost when switching tabs.",
-    "pub_date":  "2026-11-24T19:49:11Z",
+    "version":  "0.1.66",
+    "notes":  "Screen actions react much faster: only the target\u0027s place is pictured, it looks every 20 ms and clicks the moment it sees the target. Aim trainer removed.",
+    "pub_date":  "2026-11-25T17:19:45Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdENxN2o0T2ozYWNiajJWV25uaXpWbHgyeFpsdVBDa0pkU3FadTREcXhpSkN6UWJRbU04cnRQb3p4VU03Qll5Sk1qVWhoaVR6YWNMbE0xWGh4eGxpeVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTQ5NzM4CWZpbGU6U0xOQyBNYWNyb18wLjEuNjVfeDY0LXNldHVwLmV4ZQpCWXQ5QytxVXNvOThYUjFGTUEvSnJzRXJVNURpcm4ydFpSYkxTVnFDa0ZXZ25aY2k3N3dOeXhXSE9RYU1TWm5xMSsrZ1pUdUVtY1YwK016dnk4RVZCdz09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.65.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdE9kQTEzVW5sbTEvRXU5NEdreVgxR1piTEdXWUE0N2hta0wzOXRjY1hzeXR3SThYUVJ1L1FEcDZ6c1VIVE1DTHdFTURNQ3o1MFo2TXJLRHp6VnZhQVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjI3MTY5CWZpbGU6U0xOQyBNYWNyb18wLjEuNjZfeDY0LXNldHVwLmV4ZQpNR1Rpc0diYnZOMXBFVEw3VjA0aEpHamdhSXJZQU9SbTd1WDl0ZGF5STVPL2VPY2ZQU1hlSWJQZ3VVQkhkSGF6Qm9YeE00Zkp3a3c3VVJKZW9GNG9CQT09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.66.exe"
                                          }
                   }
 }
