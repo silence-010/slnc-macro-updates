@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.70",
-    "notes":  "Pop-up clicks: a click on a multiplier (like the purple x2) that looks like one already found is now also \u0027whenever it shows up\u0027, instead of a step that waits for it and asks \u0027only 81% sure\u0027.",
-    "pub_date":  "2026-11-26T10:39:26Z",
+    "version":  "0.1.73",
+    "notes":  "Auto Fishing is back in the menu (fish icon). Recording: a click is pictured from just before it, so pop-ups that jump away when clicked are recognised; pop-ups that jump are clicked again; a click on SLNC Macro itself is no longer recorded.",
+    "pub_date":  "2026-11-26T14:05:43Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEJHVVdzOEJnS1dDTjFhSFdWUWZDL2FROUJydWxTUEROekJKUjFabUUzbkNWUlJqR2VnRGZ1NW8xd3RGN0MvaUVyamZTWDZmbi92LzhaV0ZpOUQ2UGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg5NTYyCWZpbGU6U0xOQyBNYWNyb18wLjEuNzBfeDY0LXNldHVwLmV4ZQpKY29ORk1ZRitISGJJczBhTXZ1UFdUMkFjTGo2RlZSajZPdk1qeXZXL295azl3VGVUSUlMZFZESXlJbFMxRnE5Yjd3RUhDblkwc2NVUUNiNFpHNEFEQT09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.70.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdENFRTBqYzNPY1hCK2xxSjYzaEplNDRzZ3ZPRkdwTnNqSVJtL0JLL2xxMVN3N0RmM3I5cFFTRlhyM3FTTUxuN3NMQ2ZMNi84T0pMcW5aQnJjRUV4MGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzAxOTQxCWZpbGU6U0xOQyBNYWNyb18wLjEuNzNfeDY0LXNldHVwLmV4ZQpod2lQVklJdm4yUmZJOHNFcktBaHB2YjFialRVemQyV1dhWm50VkdKM3owZDZaZEIrano3UHc0ajNET3lsNi9OeTRXazU5dHQ1TVhFWEo0TU9vYTRDUT09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.73.exe"
                                          }
                   }
 }
