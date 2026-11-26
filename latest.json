@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.69",
-    "notes":  "Settings: \u0027Record clicks from other programs too\u0027 (off by default) - lets remote control or an assistant record for you. Leave it off while an auto clicker runs.",
-    "pub_date":  "2026-11-26T09:35:50Z",
+    "version":  "0.1.70",
+    "notes":  "Pop-up clicks: a click on a multiplier (like the purple x2) that looks like one already found is now also \u0027whenever it shows up\u0027, instead of a step that waits for it and asks \u0027only 81% sure\u0027.",
+    "pub_date":  "2026-11-26T10:39:26Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEc4aFk4NHBTT3ViOWkrV016TlM0Vlg3N2d1SUxGSGRDeTh3TDV1YVBhYmpBUzRzekZyRkgwOHYwOTYzQ2k0alQyRHBERjcvMC9jOTZncnJIZTBtK1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg1NzQ5CWZpbGU6U0xOQyBNYWNyb18wLjEuNjlfeDY0LXNldHVwLmV4ZQo0UTA4VlpHYWw5aEx4MlFqWk1vTUE0Wit1MXFZaFlCbk1rMVZiZzN2d1VzNGxrQkgwWDhPWE02RmVRRWdLc0JOSkdPRUJ5YUlMdHA2L3k0Y2s0YXlDZz09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.69.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdXB1NE5ncXlMdEJHVVdzOEJnS1dDTjFhSFdWUWZDL2FROUJydWxTUEROekJKUjFabUUzbkNWUlJqR2VnRGZ1NW8xd3RGN0MvaUVyamZTWDZmbi92LzhaV0ZpOUQ2UGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg5NTYyCWZpbGU6U0xOQyBNYWNyb18wLjEuNzBfeDY0LXNldHVwLmV4ZQpKY29ORk1ZRitISGJJczBhTXZ1UFdUMkFjTGo2RlZSajZPdk1qeXZXL295azl3VGVUSUlMZFZESXlJbFMxRnE5Yjd3RUhDblkwc2NVUUNiNFpHNEFEQT09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/silence-010/slnc-macro-updates/main/SLNC-Macro-Setup-0.1.70.exe"
                                          }
                   }
 }
